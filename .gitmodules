@@ -1,0 +1,9 @@
+[submodule "ionicup-server"]
+	path = ionicup-server
+	url = https://github.com/ionicup/ionicup-server
+[submodule "ionicup-models"]
+	path = ionicup-models
+	url = https://github.com/ionicup/ionicup-models
+[submodule "ionicup-app"]
+	path = ionicup-app
+	url = https://github.com/ionicup/ionicup-app
