@@ -1,1 +1,1 @@
-`git clone --recursive -j8 https://github.com/ionicup/ionicup-workspace`
+`git clone --recurse-submodules -j8 https://github.com/ionicup/ionicup-workspace`
