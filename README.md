@@ -7,4 +7,6 @@ git submodule foreach checkout main
 
 
 ### Update
-`git submodule update --remote --merge`
+```
+git submodule update --remote --merge
+```
