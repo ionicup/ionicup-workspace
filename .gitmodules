@@ -1,12 +1,15 @@
 [submodule "ionicup-server"]
 	path = ionicup-server
 	url = https://github.com/ionicup/ionicup-server
+	branch = main
 	update = merge
 [submodule "ionicup-models"]
 	path = ionicup-models
 	url = https://github.com/ionicup/ionicup-models
+	branch = main
 	update = merge
 [submodule "ionicup-app"]
 	path = ionicup-app
 	url = https://github.com/ionicup/ionicup-app
+	branch = main
 	update = merge
