@@ -1,9 +1,12 @@
 [submodule "ionicup-server"]
 	path = ionicup-server
 	url = https://github.com/ionicup/ionicup-server
+	branch = main
 [submodule "ionicup-models"]
 	path = ionicup-models
 	url = https://github.com/ionicup/ionicup-models
+	branch = main
 [submodule "ionicup-app"]
 	path = ionicup-app
 	url = https://github.com/ionicup/ionicup-app
+	branch = main
