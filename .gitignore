@@ -1,7 +1,11 @@
 .DS_Store
+/.swiftpm
 /.build
 /Packages
 /*.xcodeproj
 xcuserdata/
-/.swiftpm
-Package.resolved
+.*.sw?
+/Benchmarks/.swiftpm
+/Benchmarks/.build
+.docc-build
+__pycache__
